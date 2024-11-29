@@ -17,6 +17,8 @@
 package io.github.aochoae.uuid;
 
 /**
+ * UUIDException class.
+ *
  * @author Luis A. Ochoa
  * @since 1.0.0
  */
